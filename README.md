@@ -22,7 +22,6 @@
 - **LangChain** – AI pipeline and retrieval
 - **ChromaDB** – Vector database for semantic search
 - **OpenAI API** – LLM backbone (GPT models)
-- **Docker** – Deployment-ready containerization
 
 ---
 ## 🧪 How to Run (Local)
